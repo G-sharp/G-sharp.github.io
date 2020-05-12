@@ -28,7 +28,7 @@ twitter_username: graysonnet
 github_username:  G-sharp
 
 # Build settings
-theme: jekyll-theme-hacker
+theme: minima
 plugins:
   - jekyll-feed
 
