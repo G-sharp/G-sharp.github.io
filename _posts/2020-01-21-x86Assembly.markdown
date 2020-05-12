@@ -2,7 +2,7 @@
 layout: post
 title: x86汇编学习笔记
 date: 2020-02-19 11:17:58
-categories: Assembly
+category: Assembly
 tags: Assembly
 ---
 # x86汇编学习笔记 
