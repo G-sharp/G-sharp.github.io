@@ -1,0 +1,27 @@
+I"�<h1 id="system">System</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">Name</th>
+      <th style="text-align: center">Usage</th>
+      <th style="text-align: center">Remark</th>
+      <th style="text-align: center">url</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center">Find File</td>
+      <td style="text-align: center">find . -name “*.c”</td>
+      <td style="text-align: center">find C format file at current workpath</td>
+      <td style="text-align: center"><a href="https://www.runoob.com/linux/linux-comm-find.html">Linux 命令大全-find</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<h1 id="network">Network</h1>
+<p>|      Name       |       Usage        |     Remark   |url|
+ |:-:|:-:|:-:|:-:|
+ |search port|lsof -i:[port]|find Prot used infomation|–| 
+ |expose port|iptables -A OUTPUT -p tcp –sport 22 -j ACCEPT ,service iptables save|开放22端口| |</p>
+:ET
