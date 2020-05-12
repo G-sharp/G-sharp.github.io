@@ -23,7 +23,7 @@ email: 123@bupt.edu.cn
 description: >- # this means to ignore newlines until "baseurl:"
   It's just a fave.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://g-sharp.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://g-sharp.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: graysonnet 
 github_username:  G-sharp
 
