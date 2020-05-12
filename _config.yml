@@ -28,7 +28,7 @@ twitter_username: graysonnet
 github_username:  G-sharp
 
 # Build settings
-theme: cayman
+theme: jekyll-theme-leap-day
 plugins:
   - jekyll-feed
 
