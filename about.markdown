@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Hi, I am Gsharp.
+Hi, I am Gsharp. We are under pressure.

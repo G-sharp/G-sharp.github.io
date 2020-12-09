@@ -12,10 +12,11 @@ tags: Linux
  |Find File        |          find . -name "*.c"          |      find C format file at current workpath        |  [Linux 命令大全-find](https://www.runoob.com/linux/linux-comm-find.html) |
  
 # Network
- |      Name       |       Usage        |     Remark   |url|
- |:-:|:-:|:-:|:-:|
- |search port|lsof -i:[port]|find Prot used infomation|--| 
- |expose port|iptables -A OUTPUT -p tcp --sport 22 -j ACCEPT ,service iptables save|开放22端口| |
+ 
+ |    Name       |       Usage        |     Remark   |url|
+ |:---:|:---:|:---:|:---:|
+ |search port|lsof -i:[port]|find Prot used infomation||
+ |expose port|iptables -A OUTPUT -p tcp --sport 22 -j ACCEPT ,service iptables save|开放22端口||
 
 # ZSH
   1. install zsh
