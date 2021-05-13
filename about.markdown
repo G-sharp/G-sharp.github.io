@@ -1,7 +1,0 @@
----
-layout: page
-title: About
-permalink: /about/
----
-
-Hi, I am Gsharp. I'm thinking about it.
